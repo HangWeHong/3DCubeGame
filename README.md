@@ -2,7 +2,7 @@
 ## Open Project
 - Due to the limited storage allowed by GitHub,i have uploaded the whole project files into Google Drive and pasted the link in a textfile named Project.txt.
 - Download the files using the link above and open the project using Unity Hub.
-After it is opened:
+- After it is opened:
 ![Open](Image/ReadMe1.png)
 ## Scripts
 - `Scripts` that are coded using C# to manage the interaction between each scenes and objects and control the movement of the objects in the game.
