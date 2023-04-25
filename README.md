@@ -11,7 +11,7 @@ For example,one of the script PlayerMovement1 controls the keys and velocity tha
 ![Scripts](Image/ReadMe2.png)
 
 You can get all the scripts by going to Assets/Scripts
-##Scenes
+## Scenes
 - `Stage1,2..` included 3D objects that i have created to make up a stage, direction or angle of the camera as the cube moves,and so on.
 - `Menu` is the first Scene that will appear with the name of the game and a start button
 - `Credits` will be the last Scene with the credits to the creator of this game.
