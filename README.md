@@ -10,7 +10,7 @@ For example,one of the script PlayerMovement1 controls the keys and velocity tha
 
 ![Scripts](Image/ReadMe2.png)
 
-You can get all the scipts by going to Assets/Scripts
+You can get all the scripts by going to Assets/Scripts
 ##Scenes
 - `Stage1,2..` included 3D objects that i have created to make up a stage, direction or angle of the camera as the cube moves,and so on.
 - `Menu` is the first Scene that will appear with the name of the game and a start button
@@ -23,11 +23,11 @@ You can access all the scenes through Assests/Scenes
 - Material will set up the colours of the objects.
 
 ![Material](Image/ReadMe4.png)
-You can access all the scenes through Assests/Material
+You can access all the materials through Assests/Material
 
 ## Animation
 - Animation that i have created for this game is to proceed through each Scenes/Stage as the player completes one stage.
 ![Material](Image/ReadMe5.png)
-You can access all the scenes through Assests/Animation
+You can access all the animations through Assests/Animation
 
 ### Last But Not Least, all these works are not perfect or complete,feel free to make your own cube games with better features!
