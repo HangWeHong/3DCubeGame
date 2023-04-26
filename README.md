@@ -30,4 +30,6 @@ You can access all the materials through Assets/Material
 ![Material](Image/ReadMe5.png)
 You can access all the animations through Assets/Animation
 
+## Example Of The Game Running
+![Example](Image/ReadMe6.png)
 ### Last But Not Least, all these works are not perfect or complete,feel free to make your own cube games with better features!
